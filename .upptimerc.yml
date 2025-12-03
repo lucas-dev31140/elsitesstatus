@@ -10,7 +10,7 @@ sites:
     url: https://web.elsites.fr
 
 status-website:
-  baseUrl: /elsitesstatus
+  cname: status.elsites.fr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Elsites – Uptime
   introTitle: "**Status Elsites — Statut en temps réel**"
@@ -20,4 +20,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
 
