@@ -12,7 +12,7 @@ sites:
 status-website:
   cname: status.elsites.fr
   locale: fr
-  logoUrl: https://elsites.fr/logo.png
+  logoUrl: https://elsites.fr/logo.jpg
   name: ELsites – Uptime
   introTitle: "**Status ELsites — Statut en temps réel**"
   introMessage: "Suivi en temps réel de la disponibilité de tous les services ELsites."
