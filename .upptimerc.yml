@@ -12,9 +12,9 @@ sites:
 status-website:
   cname: status.elsites.fr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Elsites – Uptime
-  introTitle: "**Status Elsites — Statut en temps réel**"
-  introMessage: "Suivi en temps réel de la disponibilité de tous les services Elsites."
+  name: ELsites – Uptime
+  introTitle: "**Status ELsites — Statut en temps réel**"
+  introMessage: "Suivi en temps réel de la disponibilité de tous les services ELsites."
   navbar:
     - title: Statut
       href: /
