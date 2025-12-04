@@ -19,7 +19,7 @@ status-website:
   navbar:
     - title: Statut
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: ELsites.fr
+      href: https://elsites.fr
 
 
