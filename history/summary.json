@@ -76,9 +76,9 @@
     "slug": "espace-client",
     "status": "down",
     "uptime": "82.01%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.14%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "89.08%",
     "uptimeYear": "82.01%",
     "time": 1881,
     "timeDay": 0,
@@ -148,7 +148,7 @@
       "2026-07-16": 803,
       "2026-07-26": 1173,
       "2026-07-25": 355,
-      "2026-08-07": 0
+      "2026-08-07": 27
     }
   },
   {
