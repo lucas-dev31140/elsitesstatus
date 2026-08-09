@@ -74,12 +74,12 @@
     "url": "https://client.elsites.fr",
     "icon": "https://icons.duckduckgo.com/ip3/client.elsites.fr.ico",
     "slug": "espace-client",
-    "status": "up",
-    "uptime": "81.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.29%",
+    "status": "down",
+    "uptime": "81.81%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "87.28%",
     "uptimeMonth": "86.22%",
-    "uptimeYear": "81.80%",
+    "uptimeYear": "81.81%",
     "time": 1873,
     "timeDay": 1068,
     "timeWeek": 1280,
@@ -148,7 +148,8 @@
       "2026-07-16": 803,
       "2026-07-26": 1173,
       "2026-07-25": 355,
-      "2026-08-07": 1282
+      "2026-08-07": 1282,
+      "2026-08-09": 0
     }
   },
   {
