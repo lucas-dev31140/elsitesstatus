@@ -4,12 +4,12 @@
     "url": "https://elsites.fr",
     "icon": "https://icons.duckduckgo.com/ip3/elsites.fr.ico",
     "slug": "site-principal",
-    "status": "up",
-    "uptime": "94.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "94.48%",
+    "status": "down",
+    "uptime": "94.49%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "94.49%",
     "time": 533,
     "timeDay": 396,
     "timeWeek": 447,
@@ -68,7 +68,8 @@
       "2026-05-22": 164,
       "2026-05-23": 479,
       "2026-08-10": 1322,
-      "2026-08-09": 118
+      "2026-08-09": 118,
+      "2026-08-22": 5
     }
   },
   {
@@ -77,11 +78,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.elsites.fr.ico",
     "slug": "espace-client",
     "status": "up",
-    "uptime": "82.28%",
+    "uptime": "82.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.96%",
-    "uptimeYear": "82.28%",
+    "uptimeYear": "82.32%",
     "time": 1838,
     "timeDay": 1177,
     "timeWeek": 1204,
@@ -160,12 +161,12 @@
     "url": "https://web.elsites.fr",
     "icon": "https://icons.duckduckgo.com/ip3/web.elsites.fr.ico",
     "slug": "serveur-web",
-    "status": "up",
-    "uptime": "93.98%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.99%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "93.98%",
+    "uptimeYear": "93.99%",
     "time": 1524,
     "timeDay": 1724,
     "timeWeek": 1894,
@@ -224,7 +225,8 @@
       "2026-05-21": 236,
       "2026-05-22": 162,
       "2026-05-23": 382,
-      "2026-08-09": 32
+      "2026-08-09": 32,
+      "2026-08-22": 0
     }
   }
 ]
