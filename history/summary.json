@@ -4,11 +4,11 @@
     "url": "https://elsites.fr",
     "icon": "https://icons.duckduckgo.com/ip3/elsites.fr.ico",
     "slug": "site-principal",
-    "status": "up",
+    "status": "down",
     "uptime": "94.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "94.35%",
     "time": 530,
     "timeDay": 735,
@@ -73,7 +73,8 @@
       "2026-08-28": 698,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
-      "2026-08-25": 257
+      "2026-08-25": 257,
+      "2026-10-07": 10
     }
   },
   {
@@ -81,12 +82,12 @@
     "url": "https://client.elsites.fr",
     "icon": "https://icons.duckduckgo.com/ip3/client.elsites.fr.ico",
     "slug": "espace-client",
-    "status": "up",
-    "uptime": "84.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "84.75%",
+    "status": "down",
+    "uptime": "84.78%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "84.78%",
     "time": 1759,
     "timeDay": 1402,
     "timeWeek": 1331,
@@ -161,7 +162,8 @@
       "2026-08-24": 24,
       "2026-08-29": 406,
       "2026-09-13": 236,
-      "2026-09-20": 192
+      "2026-09-20": 192,
+      "2026-10-07": 5
     }
   },
   {
@@ -169,12 +171,12 @@
     "url": "https://web.elsites.fr",
     "icon": "https://icons.duckduckgo.com/ip3/web.elsites.fr.ico",
     "slug": "serveur-web",
-    "status": "up",
-    "uptime": "94.80%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.81%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.80%",
+    "uptimeYear": "94.81%",
     "time": 1644,
     "timeDay": 3249,
     "timeWeek": 2861,
@@ -234,7 +236,8 @@
       "2026-05-22": 162,
       "2026-05-23": 382,
       "2026-08-09": 32,
-      "2026-08-22": 398
+      "2026-08-22": 398,
+      "2026-10-07": 0
     }
   }
 ]
